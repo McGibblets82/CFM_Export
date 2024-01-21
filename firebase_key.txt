@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "madden-24-online-coach-mode",
+  "private_key_id": "8cb1f8598f5859e5f85e4ebde7ea02224531e110",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzPHCBRrN/3CEU\ntkcaFtp9XEVrs+TUtVU/kZlb/FBywradpC4oGjrt5GLmBIq5iOQ7ljOzOp24f5lk\nQ18Sg6L5YWMlwu6GXDW7DRpApZ4j0ZSU1sVpKGN+iFKaKkwg/pLTW038PdNxnF7m\nu1rNBYZHlNNjblRzSaty4SmhSDrqXVcLPvUQ3sPScV/MKGmYravG+OKEdPdhuaVx\n0u4K9O34Fv9yGgjceOy9To7XzhDyI0g/FElxQGKdK3FpeJ33b503qQhtBG0sdXnH\nA9JVqoc2ml7sIIgdWRqKMVheEVMvlNnd8oGb4+29CC8Asgmu9GmZCkfc358P1DEW\nBEwVBZdVAgMBAAECggEABqWqrHixRoAk7+40o9iOINEPuAdTaLoS38koDVvFpgPn\nnuAMYCtc3R63tj0b4facNEOFRlPZrpJ431mKSJb+L853TVq12uDHk1jQjO43d6+Z\nmY1/g79eNT6cBaCk8yJN0q3TrhOi6Fc6w8bV/r2CNdxknI7mbeIhDCEimJsjqDZf\nD0a+sO58ZQY+gmfLUJDY3YmBW0Ar75fAU7RDSmGHwNDPupv6+NarCXX89OVtNsnw\nXOx154V+I3KMzi4OFuQr5qY37BSnMTmSHwq9gY51xytkrYn6DP2Z9dmEef27AO/A\n7A08BpITwOiuRCOZc8KNyVPep0UFLJPv/RFdeOzRbwKBgQDiAL0hSH3pFtz2R8x0\n+qFy8K/R2rdlvqvMKd7VzHlRIzneJiPzRwjjaWHEzD//cSwyFTqaGIAT9O7aEAT+\nafaHTclsRveFhhDulYQcdjN+oUqPsYeGH38QniAqIRmtgWMoyKH+x258w1Zom987\n0NqAOIVI4oNscbOtsLuq9CrzowKBgQDLBqFt2/NiV3NjZGmte6Qcx4AcOODjBxiZ\nxd0iPC88UIMfW0Oz27q6KQBIm+tgopn15RbzjGzsVvTIkOvuqOIsGqC4trXtgi9R\nClTWOuSykbZqR25yHeh5T9CveY/YzLZQkg8llRfSuKlHEjUryEwzb2gw1g5rOKGw\n8xIeLMc4pwKBgF1ajsUzy4a/wfAdQlBDwvLWhtm5ba4ib5Z66SgJOUeRtHKV8J2q\nBvrg6di/wePDHM1nRXinjCgyMYNzwIxSutmzAPOv8Mh/03ip3BNho+23tDPc0i1N\nz0/O8VxVpeSsoIgVMA0s1e/FRGkbkb+Eiu0R68RqhH0EDoM9kJeSGjffAoGBALVq\nQltJXEy2ufvJYQjM35N7zQTq6kDTOW9Gt9d8kfTCOLiPM4sGv+7S7lbzRDtAcHSh\n9YVBKJ9zAB4sKTZEIH2qeY00bpJBbwhqQ+5+B5dszuRe2dkM0ot7/4ydAiWGny6V\npQU/GV+I9HH2Wh66RyT62s4wqAe1Pf5A5SKjfo0nAoGAUwTYyHLXdG/gb8xyZmst\nOmIwgLcBhAHQhZr3hLDtroevVhk45yrpFJE6eDm6ZJ4QT306cXc6/6G+7O02Pjqs\nXfswIZ4kT7xFS0yvFfd69/hcq0tGO1iku4VRbwB5Tx6cQqZmKhyU4QNU8nIiiw5S\nw14Bs1hjqWQWKlG+f0X+QV4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-n0xyx@madden-24-online-coach-mode.iam.gserviceaccount.com",
+  "client_id": "110643185922314755172",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-n0xyx%40madden-24-online-coach-mode.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
